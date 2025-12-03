@@ -1,20 +1,80 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# RKDC Global Impex - Delivering Trust Globally
 
-# Run and deploy your AI Studio app
+A premium corporate website for RKDC Global Impex Private Limited, showcasing their global trading and import-export services.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Demo
+[Deploy your site on Vercel](https://vercel.com) to get a live URL
 
-View your app in AI Studio: https://ai.studio/apps/drive/1X6N_RDVHehUsmdNt_qRohkVhhuXljFvt
+## 📋 About
+RKDC GLOBAL IMPEX PRIVATE LIMITED acts as a reliable bridge, connecting businesses worldwide through efficient sourcing and seamless global supply chain management.
 
-## Run Locally
+### Services
+- **Agriculture & Food** - Fresh and preserved fruits, vegetables, rice
+- **Furniture** - Premium imported furniture for homes and offices  
+- **Electrical & Electronics** - State-of-the-art home devices
+- **Garments** - Quality textiles and ready-made garments
 
-**Prerequisites:**  Node.js
+## 🚀 Tech Stack
+- **Frontend:** React + TypeScript
+- **Styling:** TailwindCSS
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
+- **Build Tool:** Vite
 
+## 🛠️ Features
+- ✅ Responsive Design
+- ✅ Modern UI/UX
+- ✅ Smooth Animations
+- ✅ Image Gallery
+- ✅ Contact Form Integration
+- ✅ WhatsApp Business Integration
+- ✅ SEO Optimized
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/EashcodeX/rkdc-global-impex.git
+   cd rkdc-global-impex
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run locally**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production**
+   ```bash
+   npm run build
+   ```
+
+## 🌍 Deployment
+
+### Vercel (Recommended)
+1. Push to GitHub
+2. Connect repository to [Vercel](https://vercel.com)
+3. Auto-deployment enabled
+
+### Manual Build
+```bash
+npm run build
+# Deploy the 'dist' folder to your hosting provider
+```
+
+## 📞 Contact Information
+- **Phone:** +91 63741 00227
+- **Email:** rkdcglobalimpexpvtltd@gmail.com
+- **Address:** 10 Alamelu Mangai Nagar, Nathammedu, Tiruninravur, Chennai – 602024
+
+## 📄 Business Details
+- **IEC Code:** AAPCR0835A
+- **GST Number:** 33AAPCR0835A1ZQ
+
+---
+
+🚀 **Built with ❤️ for RKDC Global Impex**
