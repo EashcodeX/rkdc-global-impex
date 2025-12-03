@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Keep images in root for development
+!*.jpeg
+!*.jpg
+!*.png
+!*.gif
+.vercel
