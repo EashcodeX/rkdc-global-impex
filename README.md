@@ -3,7 +3,7 @@
 A premium corporate website for RKDC Global Impex Private Limited, showcasing their global trading and import-export services.
 
 ## 🌐 Live Demo
-[Deploy your site on Vercel](https://vercel.com) to get a live URL
+**URL:** https://rkdc-global-impex-o9worl7db-eashs-projects-efce2e6d.vercel.app
 
 ## 📋 About
 RKDC GLOBAL IMPEX PRIVATE LIMITED acts as a reliable bridge, connecting businesses worldwide through efficient sourcing and seamless global supply chain management.
